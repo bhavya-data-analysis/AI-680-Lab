@@ -1,6 +1,3 @@
-# 📘 AI680 – Artificial Intelligence Labs  
-**Long Island University — Graduate Course (Fall 2025)**  
-
 This repository contains my completed lab work for the AI680 course. Each lab focuses on key areas of Artificial Intelligence including search algorithms, game playing, intelligent agents, constraint satisfaction, and probabilistic reasoning.
 
 ---
@@ -80,5 +77,4 @@ AI680-Lab/
 ---
 
 ## 📬 Contact
-**LinkedIn:** your link here  
-**Portfolio:** https://gilden.netlify.app
+**LinkedIn:** https://www.linkedin.com/in/bhavya-91p/
