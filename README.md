@@ -76,5 +76,7 @@ AI680-Lab/
 
 ---
 
-## 📬 Contact
-**LinkedIn:** https://www.linkedin.com/in/bhavya-91p/
+## 👤 Author
+**Bhavya Pandya**  
+LinkedIn: https://www.linkedin.com/in/bhavya-91p/
+
